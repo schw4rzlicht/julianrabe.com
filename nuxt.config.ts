@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
     app: {
         head: {
-            title: "Julian Rabe - Fullstack Software Engineer",
+            title: "Coming soon ;)",
         },
     },
     modules: ["@nuxtjs/tailwindcss"],
