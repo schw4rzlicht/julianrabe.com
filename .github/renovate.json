@@ -1,0 +1,16 @@
+{
+    "baseBranches": ["dev"],
+    "automergeType": "branch",
+    "postUpdateOptions": ["npmDedupe"],
+    "reviewers": ["schw4rzlicht"],
+    "rollbackPrs": true,
+    "labels": ["dependencies"],
+    "lockFileMaintenance": {
+        "enabled": true,
+        "automerge": true
+    },
+    "prCreation": "not-pending",
+    "dependencyDashboard": true,
+    "schedule": ["after 1pm and before 4pm every monday"],
+    "timezone": "Europe/Berlin"
+}
