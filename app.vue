@@ -1,11 +1,10 @@
 <template>
     <div class="w-screen h-screen flex flex-col justify-between items-center text-lime-200 sm:text-xl p-8 pb-0">
-        <div class="grow flex justify-center lg:items-center">
+        <div class="grow flex justify-center items-center">
             <div>
                 <NuxtPage />
             </div>
         </div>
-        <div class="text-center text-xs py-4">Legal</div>
     </div>
 </template>
 
@@ -24,7 +23,7 @@ h2 {
 }
 
 h1 {
-    @apply text-4xl sm:text-8xl text-pink-500 pb-4 sm:pb-8;
+    @apply text-4xl sm:text-6xl md:text-8xl text-pink-500 pb-4 sm:pb-8;
 }
 
 h2 {
