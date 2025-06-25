@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "~6.14.0",
-    "nuxt": "~3.0.0",
+    "nuxt": "~3.17.0",
     "prettier": "~3.6.0"
   },
   "packageManager": "yarn@3.8.7"
