@@ -11,6 +11,6 @@
     },
     "prCreation": "not-pending",
     "dependencyDashboard": true,
-    "schedule": ["after 1pm and before 4pm every monday"],
+    "schedule": ["after 1pm and before 4pm on monday"],
     "timezone": "Europe/Berlin"
 }
