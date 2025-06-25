@@ -5,7 +5,10 @@
                 <NuxtPage />
             </div>
         </div>
-        <div class="text-center text-xs py-4">Legal</div>
+        <div class="flex text-xs py-4 gap-1">
+            <NuxtLink to="/imprint">Imprint</NuxtLink>
+            <NuxtLink to="/privacy">Privacy</NuxtLink>
+        </div>
     </div>
 </template>
 
