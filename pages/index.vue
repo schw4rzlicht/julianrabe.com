@@ -26,7 +26,7 @@
     </p>
     <p class="pt-4">
         Got your attention? Get to know me better <NuxtLink to="/about">here</NuxtLink> or dive right into my stack
-        <NuxtLink to="/stack">here</NuxtLink>.
+        <NuxtLink to="/stack">here</NuxtLink>. An exerpt of my work can be found <NuxtLink to="/work">here</NuxtLink>.
     </p>
 </template>
 
