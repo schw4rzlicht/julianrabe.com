@@ -1,6 +1,6 @@
 <template>
     <div class="flex gap-2">
-        <div class="w-32 text-base">{{ name }}</div>
+        <div class="w-32 text-base text-slate-900">{{ name }}</div>
         <div class="flex gap-2 items-center justify-start">
             <div
                 v-for="index in 10"
@@ -18,5 +18,5 @@ interface SkillProps {
     score: number;
 }
 
-const props = defineProps<SkillProps>();
+defineProps<SkillProps>();
 </script>
