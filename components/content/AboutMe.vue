@@ -9,14 +9,14 @@
         </p>
         <p>
             Since then this was the question that motivated me to learn as much as possible about it. My friends
-            continued playing video games — <Highlight>I started to build my own</Highlight>.
+            continued playing video games — <Highlight>I started to build my own</Highlight> (with mediocre success).
         </p>
         <p>
             During school I tried to attend every computer science class possible. That made me learn
             <Highlight>C++</Highlight> with 12 and <Highlight>Java</Highlight> with 16.
         </p>
         <p>
-            After school, thinks looked different — my interests changed and I started working in the
+            After school, things looked different — my interests changed and I started working in the
             <Highlight>event industry</Highlight> as a <Highlight>lighting designer</Highlight>. I toured the world with
             <Highlight>artists</Highlight>, I lit up <Highlight>corporate events</Highlight> and
             <Highlight>festivals</Highlight>.
@@ -33,7 +33,8 @@
         <p>
             At this point I had already learned the ins and outs of software development. I had no degree yet but I only
             missed out on math, theoretical computer science and the like. I always was more the hands-on type of guy
-            anyway. So I started focussing on software development, quit university and got myself some dirty hands.
+            anyway. So I started focussing on software development, quit university and got myself some dirty hands
+            again.
         </p>
     </SPAPanel>
 </template>
