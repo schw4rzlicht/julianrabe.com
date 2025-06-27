@@ -1,15 +1,13 @@
 <template>
     <div class="panel">
-        <div class="flex flex-col justify-between items-center">
-            <div class="max-w-3xl">
-                <slot />
-            </div>
+        <div class="max-w-3xl mx-auto">
+            <slot />
         </div>
     </div>
 </template>
 
 <style scoped>
 .panel {
-    @apply h-[100vh] overflow-y-auto overflow-x-hidden w-full p-8;
+    @apply h-[100vh] overflow-y-auto overflow-x-hidden w-full flex justify-center items-center p-8;
 }
 </style>
