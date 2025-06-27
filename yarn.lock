@@ -801,8 +801,8 @@ __metadata:
   linkType: hard
 
 "@netlify/zip-it-and-ship-it@npm:^12.1.0":
-  version: 12.1.5
-  resolution: "@netlify/zip-it-and-ship-it@npm:12.1.5"
+  version: 12.2.0
+  resolution: "@netlify/zip-it-and-ship-it@npm:12.2.0"
   dependencies:
     "@babel/parser": "npm:^7.22.5"
     "@babel/types": "npm:7.27.6"
@@ -839,7 +839,7 @@ __metadata:
     zod: "npm:^3.23.8"
   bin:
     zip-it-and-ship-it: ./bin.js
-  checksum: 10/bc68fac169ec77f348cadf41efd329b1052aad6306d9d020373e6fed48d0a2860e907d54630746bcb7894176599e5d6a9fecd17c3e164b0a53df825b3cca8841
+  checksum: 10/77a570fdb0185d8a7d8b86f4a1566f4d478bfb4c8d55850801ef9ccb947d821be6820e79dfd1a9074feca83b898ecabd02b74a44fbb4f49da5fa80b4d0b791fb
   languageName: node
   linkType: hard
 
@@ -3546,9 +3546,9 @@ __metadata:
   linkType: hard
 
 "dotenv@npm:^16.3.1, dotenv@npm:^16.4.7, dotenv@npm:^16.5.0":
-  version: 16.5.0
-  resolution: "dotenv@npm:16.5.0"
-  checksum: 10/e68a16834f1a41cc2dfb01563bc150668ad675e6cd09191211467b5c0806b6ecd6ec438e021aa8e01cd0e72d2b70ef4302bec7cc0fe15b6955f85230b62dc8a9
+  version: 16.6.0
+  resolution: "dotenv@npm:16.6.0"
+  checksum: 10/3a9b5023ff0c7bcb0703dab63a4920bc37816ad46c760e7736afd3dbd92793c35878235cfc61cbba8e36a18531eb379d7eaa169593abd5f763a1aff46a4fdf7b
   languageName: node
   linkType: hard
 
@@ -3585,9 +3585,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.173":
-  version: 1.5.176
-  resolution: "electron-to-chromium@npm:1.5.176"
-  checksum: 10/6bf77396636f9eaefbdd43bca0de7d743526261a08a5f96aefb972f7b2d3d7967bc4e5d7bd9ce3274ecba15e66944e9f71520c4d65a2656d121e4267223b82c6
+  version: 1.5.177
+  resolution: "electron-to-chromium@npm:1.5.177"
+  checksum: 10/86f740f3d0fc10cbc056496f8673ced2aea8db54cc122a87d90ed81127eebb4e9618a032bbf5edabab4ef897bc4d6a09a54512448c671308f239a946751ee421
   languageName: node
   linkType: hard
 
@@ -9304,7 +9304,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"youch@npm:4.1.0-beta.8, youch@npm:^4.1.0-beta.7":
+"youch@npm:4.1.0-beta.8":
   version: 4.1.0-beta.8
   resolution: "youch@npm:4.1.0-beta.8"
   dependencies:
@@ -9314,6 +9314,19 @@ __metadata:
     cookie: "npm:^1.0.2"
     youch-core: "npm:^0.3.1"
   checksum: 10/0ee98998fcbb1dff333e685120cef5641da6a0f9414bca66fb7e2eaccdf7204b10d495c06eb8ba86d8d2b3946fa6e5428e9414c0560653e7bcb9a955af4a77d1
+  languageName: node
+  linkType: hard
+
+"youch@npm:^4.1.0-beta.7":
+  version: 4.1.0-beta.9
+  resolution: "youch@npm:4.1.0-beta.9"
+  dependencies:
+    "@poppinss/colors": "npm:^4.1.4"
+    "@poppinss/dumper": "npm:^0.6.3"
+    "@speed-highlight/core": "npm:^1.2.7"
+    cookie: "npm:^1.0.2"
+    youch-core: "npm:^0.3.2"
+  checksum: 10/2bc4554e1337d257e6d696409e3565669831c189c22833e54e79204167c7f523c0b1cc1770343d76c684985b7a4b605fe08c7c41d407ab30ee191977ec555ee5
   languageName: node
   linkType: hard
 
