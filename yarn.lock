@@ -4058,10 +4058,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gsap@npm:~3.13.0":
-  version: 3.13.0
-  resolution: "gsap@npm:3.13.0"
-  checksum: 10/1908d51cbdf8f0bec8a69919af352d743a06529639a89f750f1c02e9a165d3ea816f867569df222ee7bfc14e23e268ebeb51dc5df0687fa7918ddd5d3b3efaec
+"gsap@npm:~3.15.0":
+  version: 3.15.0
+  resolution: "gsap@npm:3.15.0"
+  checksum: 10/235b10d3c15f276a2ab2173c536c79a4ba34f9c478f4d509d3e2fc28aa4caac27fe1dd1554ce317d89e6747537367ef15c3cb98a94af685a7aa1c7f278ff6553
   languageName: node
   linkType: hard
 
@@ -6566,7 +6566,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@nuxtjs/tailwindcss": "npm:~6.14.0"
-    gsap: "npm:~3.13.0"
+    gsap: "npm:~3.15.0"
     nuxt: "npm:~3.17.0"
     prettier: "npm:~3.6.0"
   languageName: unknown
